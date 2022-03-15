@@ -1,5 +1,4 @@
-import Phaser from 'phaser'
-
+import Phaser from '../../phaser/phaser';
 export default class HelloWorldScene extends Phaser.Scene
 {
 	constructor()

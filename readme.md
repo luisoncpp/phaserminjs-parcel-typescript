@@ -1,3 +1,8 @@
+This is a modified version of an original template an it's meant to only show how to use phaser outside of node_modules in order
+to be able to modify it.
+
+The original readme it's here:
+
 ![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
 
 # Phaser 3 + TypeScript + Parcel Template
